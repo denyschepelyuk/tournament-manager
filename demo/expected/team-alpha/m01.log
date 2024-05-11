@@ -1,0 +1,4 @@
+pass Test one
+fail Test two
+  Extra information about failure.
+fail Test three
